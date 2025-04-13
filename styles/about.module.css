@@ -1,0 +1,16 @@
+.container {
+	width: 800px;
+	padding: 50px;
+	margin:40px auto 0;
+	border-radius:8px;
+	box-shadow: 12px 16px 35px 0px rgba(0, 0, 0, 0.3);
+}
+.container h2 {
+	font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.container p {
+	line-height: 1.6;
+}
